@@ -1,5 +1,7 @@
-button{
+.red-background {
+    background-color: red;
+}
+
+.green-background {
     background-color: green;
-    color: #fff;
-padding: 3rem;
 }
